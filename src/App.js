@@ -12,7 +12,7 @@ import PokemonContext from "./Context/PokemonsContext";
 import Pokemons from "./State/Pokemons";
 
 function App() {
-  const [pokemons, setPokemons] = useState(Pokemons);
+  const [pokemons] = useState(Pokemons);
   const [searchTerm, setSearchTerm] = useState("");
 
   return (
