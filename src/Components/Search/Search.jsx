@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import PokemonContext from "../../Context/PokemonsContext";
 
 export const SearchBox = ({ placeholder }) => {
-  const { searchTerm, setSearchTerm } = useContext(PokemonContext);
+  const { setSearchTerm } = useContext(PokemonContext);
 
   const handleChange = (e) => {
     setSearchTerm(e.target.value);
