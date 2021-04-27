@@ -1,0 +1,689 @@
+# Sample stellar.toml
+
+#   The endpoint which clients should query to resolve stellar addresses
+#   for users on your domain.
+FEDERATION_SERVER="https://stellarid.io/federation/"
+
+# asset with meta info
+[[CURRENCIES]]
+code="Lugia"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Lugia"
+desc="Lugia (Japanese: ルギア Rugia) is a Psychic/Flying Legendary Pokémon. It has silver-white feathers over most of its body, except for its blue underbelly. Known as the Guardian of the Seas, Lugia is tremendously intelligent and is very gentle with the life around it, despite its colossal size. Lugia is also intelligent enough to even speak telepathically, like Mewtwo."
+conditions="There will be only 1 Lugia in existence."
+image="https://i.imgur.com/N2xY8xY.png"
+
+[[CURRENCIES]]
+code="Caterpie"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Caterpie"
+desc="Caterpie (Japanese: キャタピー Kyatapii) is a Bug-type Pokémon introduced in Generation I. Caterpie is a worm-like Pokémon that is mainly green in color with a tan underside. Just below its head are four, tiny legs that are used only for movement. On top of its head is a red, 'y-shaped' antenna, which can be used to produce an odor used in self-defense, in case something tries to hurt it."
+conditions="There will be only 12762101 Caterpies in existence."
+image="https://i.imgur.com/BvuSEpD.png"
+
+[[CURRENCIES]]
+code="Diglett"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Diglett"
+desc="Diglett (Japanese: ディグダ Diguda) is a Ground-type Pokémon introduced in Generation I. Digletts are small, brown moles with two small eyes and a large pink/red nose. Since part of its body is underground, we don't know whether or not Diglett has feet, tail(s), etc. However, in Pokémon Mystery Dungeon Red Rescue Team and Blue Rescue Team, the rescued Diglett (after Skarmory kidnapped him) claimed to say his feet were getting cold (Which thereafter caused an awkward moment of silence)."
+conditions="There will be only 11,021 Digletts in existence."
+image="https://i.imgur.com/5tqacCJ.png"
+
+[[CURRENCIES]]
+code="Charmander"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Charmander"
+desc="Charmander (ヒトカゲ Hitokage) is a Fire-type Pokémon. It is one of the three Starter Pokémon that can be chosen in the Kanto region. Charmander is a small, bipedal, dinosaur-like Pokémon. Most of its body is colored orange, while its underbelly is a pale light-yellow color. Charmander, like its evolved forms, has a flame that constantly burns on the end of its tail. However, If the flame on Charmander's tail goes out, Charmander is known to die."
+conditions="There will be only 10,190 Charmanders in existence."
+image="https://i.imgur.com/5nCIbl4.png"
+
+[[CURRENCIES]]
+code="Raticate"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Raticate"
+desc="Raticate (Japanese: ラッタ Ratta) is a Normal-type Pokémon introduced in Generation I. Compared to Rattata, Raticate is far more of a predator, and the majority of its features are adapted for this purpose. Its most notable feature are its large teeth; like most rodents, Raticate's teeth grow continuously throughout its life, and must be constantly worn down by gnawing. It is also known that Raticate's fangs are tough enough to break through concrete. It has long whiskers and a long tail. Raticate looks like a rat, just like Rattata. Raticate tends to stand on its hind legs, as opposed to its pre-evolution."
+conditions="There will be only 19,199 Raticates in existence."
+image="https://i.imgur.com/erz07Gc.png"
+
+[[CURRENCIES]]
+code="Cubone"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Cubone"
+desc="Cubone (Japanese: カラカラ Karakara) is a Ground-Type Pokémon introduced in Generation I. Cubone, known as the Lonely Pokémon, appears to be a small, brown, dinosaur-like Pokémon that constantly wears its deceased mother's skull like a helmet. The skull masks its true face from view, which makes it a puzzlement for many Trainers and researchers. Its cries echo within the skull and it comes out as a pained and sad melody. On the night of a full moon, it cries, for it seems to recognize its mother's face in the moon. Its tears create stains on the skull. Cubone has a plump body with a paler-colored underbelly, with strong, clawed limbs to carry a bone as a weapon around wherever it goes. Cubone has a single, nailed toe on each foot, with two spikes on its back. A small tail is also present for balance, but it can be used for attacking." 
+conditions="There will be only 119 Cubones in existence."
+image="https://i.imgur.com/aXiVHmo.png"
+
+[[CURRENCIES]]
+code="Bellsprout"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Bellsprout"
+desc="Bellsprout (Japanese: マダツボミ Madatsubomi) is a Grass/Poison-type Pokémon introduced in Generation I. Bellsprout is a plant-like Pokémon. The body is a thin brown root and stem system. Bellsprout has two root-like legs. It has two leaves on each side. Its head is yellow and shaped like a bulb, the tip is colored pink, and it has the smallest amount of dirt on its feet."
+conditions="There will be only 979,121 Bellsprouts in existence."  
+image="https://i.imgur.com/5bvdi4R.png"
+
+[[CURRENCIES]]
+code="Eevee"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Eevee"
+desc="Eevee (Japanese: イーブイ Iibui) is a Normal-type Pokémon introduced in Generation I. It's well-known for being the Pokémon with the highest number of evolution possibilities, due to its unstable genetic makeup. Eevee is a small, fennec fox-like creature with bushy, brown fur. Its muzzle is very cat-like, with a small, black, triangular nose. It has a fluffy cream-colored ruff around its neck and a short, bushy, fox-like tail with a creamy tip."
+conditions="There will be only 101,710 Eevees in existence."
+image="https://i.imgur.com/oqaDx5r.png"
+
+
+[[CURRENCIES]]
+code="Meowth"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Meowth"
+desc="Meowth (Japanese: ニャース Nyasu) is a Normal-type Pokémon introduced in Generation I, and a Dark-type introduced in Generation VII. Meowth is a small, bipedal, feline Pokémon. It has two white whiskers on each side of its oval-shaped face and two hairs sticking up on either side of the coin-like gem on its forehead, and highly resembles a cat. Meowth's tail and feet are cream-colored like the rest of it, but they are brown at the end."
+conditions="There will be only 3,629 Meowths in existence."
+image="https://i.imgur.com/8XpBxXs.png"
+
+[[CURRENCIES]]
+code="Abra"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Abra"
+desc="Abra (Japanese: ケーシー Keeshii) is a Psychic-type Pokémon introduced in Generation I. Abra is a golden-brown, human-like fox Pokémon with three fingers and toes on both arms and legs. Its eyes are mostly closed because of its tendency to sleep a lot. The shoulders are brown. Abra has a long tail with one brown stripe. Feet have 3 sharp claws, 2 on the front and 1 on the heel. It has slightly-pointed ears and its body looks slightly like it has a type of body armour on its top half."
+conditions="There will be only 7,829 Abras in existence."
+image="https://i.imgur.com/Mt6SxjU.png"
+
+[[CURRENCIES]]
+code="Squirtle"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Squirtle"
+desc="Squirtle (ゼニガメ Zenigame) is a Water-type Pokémon introduced in Generation I. It evolves into Wartortle starting at level 16. It is one of the three Starter Pokémon that can be chosen in Kanto region. Squirtle is a small, light-blue Pokémon with an appearance similar to a turtle. With its aerodynamic shape and grooved surface, Squirtle's shell helps it wade through the water very quickly. It also offers protection in battle. Like turtles, Squirtle has a shell that covers its body with holes that allow its limbs, tail, and head to be exposed. Unlike a turtle, Squirtle is ordinarily bipedal."
+conditions="There will be only 129,314 Squirtles in existence."
+image="https://i.imgur.com/1ECCzFU.png"
+
+[[CURRENCIES]]
+code="Zubat"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Zubat"
+desc="Zubat (Japanese: ズバット Zubatto) is a Poison/Flying-type Pokémon introduced in Generation I. Zubat resembles a blue bat. It has a short, round body, purple wings, and slim legs missing feet. Zubat has no eyes, so it uses sound waves (echolocation) to navigate, like a real bat does. A female Zubat has smaller teeth than those of a male's. Strangely, it can use the move Mean Look, despite not having any eyes."
+conditions="There will be only 1,029,921 Zubats in existence."
+image="https://i.imgur.com/zyODO5e.png"
+
+[[CURRENCIES]]
+code="Omanyte"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Omanyte"
+desc="Omanyte (Japanese: オムナイト Omunaito) is a Rock/Water-type Fossil Pokémon introduced in Generation I that can be resurrected from a Helix Fossil. It is Kabuto's counterpart. Omanyte is a snail-like Pokémon that died out millions of years ago. Omanyte's sturdy shell protects it from enemy attacks. It has many tentacles, which it used to crawl along the muddy seafloor. It has two large eyes that just stick out under its curvy shell. It is based on the ancient sea-creatures Ammonites."
+conditions="There will be only 111111 Omanyte in existence"
+image="https://i.imgur.com/aSQIDHa.png"
+
+[[CURRENCIES]]
+code="Pidgeot"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pidgeot"
+desc="Pidgeot (Japanese: ピジョット Pijotto) is a Normal/Flying-type Pokémon introduced in Generation I. It is the evolved form of Pidgeotto, and the final evolution of Pidgey. Pidgeot resembles a large, feathery bird with huge wings. It has a brightly colored crest and tail. Many trainers are drawn to Pidgeot because of its lovely feathers. The beautiful colors of its crest are particularly striking. It is easily confused with Pidgeotto because the only difference without a relative size comparison is that Pigeot's tail and crest coloring switch from those of Pidgeotto's." 
+conditions="There will be only 91,569 Pidgeots in existence."
+image="https://i.imgur.com/UGtix3c.png"
+
+[[CURRENCIES]]
+code="Psyduck"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Psyduck"
+desc="Psyduck (Japanese: コダック Kodakku) is a Water-type Pokémon introduced in Generation I. Psyduck can have either the ability Damp or Cloud Nine. Damp is an ability that will prevent the opponent from self destructing, while Cloud Nine prevents the effects of weather. It suffers from a constant headache. From time to time, it's headache causes it psychic abilities to increase tenfold."
+conditions="There will be only 9,061 Psyducks in existence."
+image="https://i.imgur.com/0qTpu2I.png"
+
+[[CURRENCIES]]
+code="Paras"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Paras"
+desc="Paras (Japanese: パラス Paras) is a Bug/Grass-type Pokémon introduced in Generation I. Paras is very crablike, as it has six legs. The front two legs are very large, allowing Paras to grip on to prey and its environment."
+conditions="There will be only 19,971,061 Paras in existence."
+image="https://i.imgur.com/hxcIFqO.png"
+
+[[CURRENCIES]]
+code="Weedle"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Weedle"
+desc="Weedle (Japanese: ビードル Biidoru) is a Bug/Poison-type Pokémon introduced in Generation I. Weedle has the ability Shield Dust, which will block any side effect caused by an opposing attack. With its great scent it can smell the leaves it likes best." 
+conditions="There will be only 161,769 Weedles in existence."
+image="https://i.imgur.com/JOefjtW.png"
+
+[[CURRENCIES]]
+code="Venonat"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Venonat"
+desc="Venonat (Japanese: コンパン Konpan) is a Bug/Poison-type Pokémon introduced in Generation I. Venonat is covered in large, purple fur. The feet of Venonat are brown and are about half as long as Venonat itself with its hands being the same color but a third of the size. Venonat can have the ability Compoundeyes or the ability Tinted Lens. Compoundeyes increases Venonat's accuracy by 30%. Tinted Lens increases the power of not-very-effective moves by 1.5x. Venonat's eyes are very accurate: they enable Venonat to easily catch extremely small prey. Conway has one in the episode Camping It Up."
+conditions="There will be only 8,859 Venonats in existence."
+image="https://i.imgur.com/qtElRJB.png"
+
+[[CURRENCIES]]
+code="Slowpoke"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Slowpoke"
+desc="Slowpoke (Japanese: ヤドン Yadon) is a Water/Psychic-type Pokémon introduced in Generation I. Slowpoke can have the abilities Oblivious or Own Tempo. Oblivious prevents Slowpoke from being infatuated. Own Tempo prevents Slowpoke from being confused. Although slow, Slowpoke is skilled at fishing with its tail, and it does not feel pain if its tail is bitten."
+conditions="There will be only 19,569 Slowpokes in existence."
+image="https://i.imgur.com/fu3iNgJ.png"
+
+[[CURRENCIES]]
+code="Cyndaquil"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Cyndaquil"
+desc="Cyndaquil (Japanese: ヒノアラシ Hinoarashi) is the Fire-type Starter Pokémon of the Johto region. All Cyndaquil have the ability Blaze which will cause its Fire-type attacks to do 150% damage when its health is below 1/3 its max HP. Cyndaquil are generally timid and not naturally aggressive, and are often seen curled up into a ball for protection."
+conditions="There will be only 3,033 Cyndaquils in existence."
+image="https://i.imgur.com/rYVGnAN.png"
+
+[[CURRENCIES]]
+code="Vulpix"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Vulpix"
+desc="Vulpix (Japanese: ロコン Rokon) is a Fire-type Pokémon introduced in Generation I, and an Ice-type introduced in Generation VII which is exclusive to Pokémon Sun. Vulpix are fox-like Pokémon with reddish-brown fur. Vulpix's most distinctive feature is its six orange tails that are curled at the tips. According to the Pokédex, when it is born, Vulpix possesses one snow white tail that eventually splits into many tails as it grows older. Vulpix are very intelligent. When they face a stronger enemy, they'll distract the enemy by feigning injury and then escape. According to the Pokédex, Vulpix have a flame inside their body that never goes out. This is presumably what gives it the ability to use fire attacks such as Flamethrower. "
+conditions="There will be only 11,069 Vulpix in existence."
+image="https://i.imgur.com/kCXrigU.png"
+
+[[CURRENCIES]]
+code="Bulbasaur"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Bulbasaur"
+desc="Bulbasaur (フシギダネ Fushigidane) is a Grass/Poison-type Pokémon introduced in Generation I. It evolves into Ivysaur starting at level 16. It is one of the three Starter Pokémon that can be chosen in the Kanto region. Bulbasaur often rests in bright places so its bulb can absorb sunlight. It can be seen napping in bright sunlight. While it sleeps, the seed on its back catches the rays and uses the energy to grow."
+conditions="There will be only 36769 Bulbasaurs in existence."
+image="https://i.imgur.com/goklpGE.png"
+
+[[CURRENCIES]]
+code="Articuno"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Articuno"
+desc="Articuno (Japanese: フリーザー Furiizaa) is an Ice/Flying-type Legendary Pokémon introduced in Generation I. It is part of the Kanto Legendary Birds, along with Zapdos and Moltres. Articuno is a large bird with blue plumage. Its colouring is darkest on its head crest and long, streaming tail. Its body is coloured sky-blue, while growing lighter on its front, and its chest is a lighter blue than anything. Its most distinctive trait is its large wings, which are said to be made of ice. In terms of physical strength, Articuno is the strongest out of the three Legendary Birds; as shown in the Anime, Articuno is able to lift one of Team Rocket's mechas with its talons."
+conditions="There will be only 3 Articunos in existence."
+image="https://i.imgur.com/VUoHK9t.png"
+
+[[CURRENCIES]]
+code="Oddish"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Oddish"
+desc="Oddish (Japanese: ナゾノクサ Nazonokusa) is a Grass/Poison-type Pokémon introduced in Generation I. Oddish is a nocturnal Pokémon, using moonlight rather than the sun's rays for photosynthesis. During the day, Oddish avoids the sun's heat and brightness by burying itself into the earth, leaving only the leaves on top of its head visible above ground. Oddish looks like a small animated plant. Its body is blue, with two small feet and red eyes. On top of its head grows a large clump of five long green leaves."
+conditions="There will be only 39,589 Oddish in existence."
+image="https://i.imgur.com/8acoinn.png"
+
+[[CURRENCIES]]
+code="Charmeleon"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Charmeleon"
+desc="Charmeleon (リザード Rizaado) is a Fire-type Pokémon introduced in Generation I. Charmeleon is a small, bipedal, dinosaur-like Pokémon with an appearance similar to that of its pre-evolved form, Charmander. Charmeleon, like its other evolutionary forms, can naturally breathe fire. Its powers, though, are much greater than Charmander's, but not as great as Charizard's."
+conditions="There will be only 1010 Charmeleons in existence."
+image="https://i.imgur.com/KG7T0wt.png"
+
+[[CURRENCIES]]
+code="Jigglypuff"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Jigglypuff"
+desc="Jigglypuff (Japanese: プリン Purin) is a Normal/Fairy-type Pokémon introduced in Generation I. Before Generation VI, it was a pure Normal-type. Jigglypuff is a balloon Pokémon. Its body is globular, pink, fluffy, cuddly and accented with stubby appendages, a tiny tuft of a single curl of hair and enormous, blue eyes, featuring green eyes for its Shiny version. Its skin is rubbery and stretchy."
+conditions="There will be only 59,839 Jigglypuffs in existence."
+image="https://i.imgur.com/uwe7mkr.png"
+
+[[CURRENCIES]]
+code="Pikachu"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pikachu"
+desc="Pikachu (ピカチュウ Pikachuu) is an Electric-type Pokémon. Pikachu are small, chubby, and incredibly cute mouse-like Pokémon. They are almost completely covered by yellow fur. They have long yellow ears that are tipped with black."
+conditions="There will be only 5961 Pikachus in existence."
+image="https://pokedex.live/img/Pikachu.png"
+
+[[CURRENCIES]]
+code="Magnemite"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Magnemite"
+desc="Magnemite (Japanese: コイル Koiru) is an Electric/Steel-type Pokémon introduced in Generation I. Magnemite has light-blue steel body in the shape of a sphere which is kept bound together with the two screws and one large screw at the top of its head. It has one big eye that is as big as the magnets it uses; which can launch electric attacks. On the side of its body are two horseshoe magnets which expel antigravity, allowing it to float in mid-air."
+conditions="There will be only 17,676 Magnemites in existence."
+image="https://pokedex.live/img/Magnemite.png"
+
+
+[[CURRENCIES]]
+code="Piplup"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Piplup"
+desc="Piplup (Japanese: ポッチャマ Potchama) is the Water-type Starter Pokémon of the Sinnoh region. It was introduced in Generation IV. Piplup is a light-blue penguin-like Pokémon, which is covered in thick down to insulate against the cold. It has a dark blue head with a primarily white face and a short, yellow beak. The dark blue feathers on its head extend down its back and around its neck, which causes it to appear to be wearing a cape. There are two white ovals on its chest and a small, light-blue marking resembles a crown above its beak."
+conditions="There will be only 197969 Piplups in existence."
+image="https://pokedex.live/img/Piplup.png"
+
+[[CURRENCIES]]
+code="Koffing"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Koffing"
+desc="Koffing (Japanese: ドガース Dogaasu) is a Poison-type Pokémon introduced in Generation I. Koffing is a Poison Gas Pokémon. Its body is purple and spherical with a skull and crossbones on the lower parts of its body. Koffing mainly eats rotten kitchen garbage."
+conditions="There will be only 38368 Koffings in existence."
+image="https://pokedex.live/img/Koffing.png"
+
+[[CURRENCIES]]
+code="Butterfree"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Butterfree"
+desc="Butterfree (Japanese: バタフリー Batafurii) is a Bug/Flying-type Pokémon introduced in Generation I. Butterfree is an insect-like Pokémon appearing as a large butterfly. Butterfree has a large purple body with light blue limbs and a nose with very small fangs. Its eyes are quite large in proportion to its head and are a red color. Butterfree's large wings simply appear as black and white butterfly wings."
+conditions="There will be only 127621 Butterfrees in existence."
+image="https://pokedex.live/img/Butterfree.png"
+
+[[CURRENCIES]]
+code="Golduck"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Golduck"
+desc="Golduck (Japanese: ゴルダック Gorudakku) is a Water-type Pokémon introduced in Generation I. Golduck has the ability Damp. Damp makes it impossible for any of Golduck's opponents to use a Self-Destruct move. Golduck can use psychic powers. When they are used, the gem on its head will glow."
+conditions="There will be only 906 Golducks in existence."
+image="https://pokedex.live/img/Golduck.png"
+
+[[CURRENCIES]]
+code="Poliwag"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Poliwag"
+desc="Poliwag (Japanese: ニョロモ Nyoromo) is a Water-type Pokémon introduced in Generation I. It is so soft its organs are actually visible. It also has trouble walking on its feet due to its lack of arms which causes it to be unbalanced. The swirl on its belly is its internal organs showing through. If the swirl is tinged, that means it's affected by some disease."
+conditions="There will be only 96686 Poliwags in existence."
+image="https://pokedex.live/img/Poliwag.png"
+
+[[CURRENCIES]]
+code="Mimikyu"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Mimikyu"
+desc="Mimikyu (ミミッキュ Mimikkyu) is a ghost/fairy-type Pokémon introduced in Generation VII. The 'body' of Mimikyu has been designed to look like Pikachu. The overall structure of the disguise does resemble Pikachu, but the skin is a grayish-beige color instead of yellow. "
+conditions="There will be only 1001 Mimikyus in existence."
+image="https://pokedex.live/img/Mimikyu.png"
+
+[[CURRENCIES]]
+code="Sudowoodo"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Sudowoodo"
+desc="Sudowoodo (Japanese: ウソッキー Usokkii) is a Rock-type Pokémon introduced in Generation II. Sudowoodo have the Rock Head and Sturdy Abilities. Sudowoodo, although a Rock type, looks more like a Grass type by use of adaptive mimicry."
+conditions="There will be only 38838 Sudowoodos in existence."
+image="https://pokedex.live/img/Sudowoodo.png"
+
+[[CURRENCIES]]
+code="Electabuzz"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Electabuzz"
+desc="Electabuzz (Japanese: エレブー Erebuu) is an Electric-type Pokémon introduced in Generation I. Electabuzz is a type of bipedal, feline-like Pokémon with bright yellow coloring and black stripes. It has lightning bolt shapes on its body and large forearms. Some of its feline properties are its long tail and large fangs. Its two legs are short, and its feet are large with two sharp claws on either one."
+conditions="There will be only 18697 Electabuzz in existence."
+image="https://pokedex.live/img/Electabuzz.png"
+
+[[CURRENCIES]]
+code="Wartortle"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Wartortle"
+desc="Wartortle (Japanese: カメール Kameeru) is a Water-type Pokémon introduced in Generation I. It is the evolved form of Squirtle. Wartortle are small, bipedal, turtle-like Pokémon with a similar appearance to that of their pre-evolved form, Squirtle. Some differences are that Wartortle have developed sharper and larger claws and teeth."
+conditions="There will be only 12931 Wartortles in existence."
+image="https://pokedex.live/img/Wartortle.png"
+
+[[CURRENCIES]]
+code="Drowzee"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Drowzee"
+desc="Drowzee (Japanese: スリープ Suriipu) is a Psychic-type Pokémon introduced in Generation I. Drowzee is a tapir-like Pokémon that is mostly yellow. The bottom half of its body is covered in mud, as if it was bathing in it. When Drowzee uses Hypnosis, its eyes glow a light blue."
+conditions="There will be only 44826 Drowzees in existence."
+image="https://pokedex.live/img/Drowzee.png"
+
+[[CURRENCIES]]
+code="Cleffa"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Cleffa"
+desc="Cleffa (Japanese: ピィ Pyi) is a Fairy-type Baby Pokémon introduced in Generation II. Cleffa is a small, pink creature that is vaguely star-shaped in appearance. Its ears are completely brown. It has two small black eyes, a small mouth, and it appears to have a small, permanent blush on its cheeks."
+conditions="There will be only 86826 Cleffas in existence."
+image="https://pokedex.live/img/Cleffa.png"
+
+[[CURRENCIES]]
+code="Elekid"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Elekid"
+desc="Elekid (Japanese: エレキッド Erekiddo) is an Electric-type Baby Pokémon introduced in Generation II. Elekid is mainly yellow with black stripes across its body and one lightning bolt shape on its stomach. Its forearms are large with three small claws at the ends and its legs are short and stubby."
+conditions="There will be only 186970 Elekids in existence."
+image="https://pokedex.live/img/Elekid.png"
+
+[[CURRENCIES]]
+code="Metapod"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Metapod"
+desc="Metapod (トランセル Toranseru) is a Bug-type Pokémon introduced in Generation I. It is the evolved form of Caterpie. Metapod is an insect-like Pokémon with an appearance similar to that of a green-colored chrysalis or cocoon."
+conditions="There will be only 1276210 Metapods in existence."
+image="https://pokedex.live/img/Metapod.png"
+
+[[CURRENCIES]]
+code="Pidgeotto"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pidgeotto"
+desc="Pidgeotto (ピジョン Pijon) is a Normal/Flying-type Pokémon introduced in Generation I. It is the evolved form of Pidgey. Pidgeotto resembles a small hawk and is brightly colored with red and yellow feathers. Due to similarities between Pidgeotto and its evolved form, Pidgeot, many players often get the two confused. Its beak and claws are as sharp as its eyesight."
+conditions="There will be only 915690 Pidgeottos in existence."
+image="https://pokedex.live/img/Pidgeotto.png"
+
+[[CURRENCIES]]
+code="Pidgey"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pidgey"
+desc="Pidgey (ポッポ Poppo) is a Normal/Flying-type Pokémon introduced in Generation I. Pidgey resembles a small, plump-bodied bird. It is brown in color, with a cream-colored throat and belly. The tips of its wings share the same color."
+conditions="There will be only 9156901 Pidgeys in existence."
+image="https://pokedex.live/img/Pidgey.png"
+
+[[CURRENCIES]]
+code="Rattata"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Rattata"
+desc="Rattata (Japanese: コラッタ Koratta) is a Normal-type Pokémon introduced in Generation I, and a Dark/Normal-type introduced in Generation VII. Rattata is mouse-like, with large incisors and a whisker on both sides. Female Rattata have shorter whiskers than the males."
+conditions="There will be only 191997 Rattatas in existence."
+image="https://pokedex.live/img/Rattata.png"
+
+[[CURRENCIES]]
+code="Bonsly"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Bonsly"
+desc="Bonsly (Japanese: ウソハチ Usohachi) is a Rock-type Baby Pokémon that was introduced in Generation IV. Bonsly evolves into Sudowoodo when leveled up while knowing the move Mimic."
+conditions="There will be only 388386 Bonslys in existence."
+image="https://pokedex.live/img/Bonsly.png"
+
+[[CURRENCIES]]
+code="Munchlax"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Munchlax"
+desc="Munchlax (Japanese: ゴンベ Gonbe) is a Normal-type Baby Pokémon introduced in Generation IV. It is known for its very high appetite and eats anything edible except for Pokémon and humans."
+conditions="There will be only 389486 Munchlaxs in existence."
+image="https://pokedex.live/img/Munchlax.png"
+
+[[CURRENCIES]]
+code="Pichu"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pichu"
+desc="Pichu (Japanese: ピチュー Pichuu) is an Electric-type Baby Pokémon introduced in Generation II. Pichu are very small, plump, yellow rodent-like Pokémon. It has diamond-shaped ears on the top of their head, with the edges being black and the interior yellow. It will evolve into Pikachu once ready."
+conditions="There will be only 59610 Pichus in existence."
+image="https://pokedex.live/img/Pichu.png"
+
+[[CURRENCIES]]
+code="Gastly"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Gastly"
+desc="Gastly (Japanese: ゴース Goosu) is a Ghost/Poison-type Pokémon introduced in Generation I. Gastly's appearance consists of a dark sphere (its 'head') surrounded by light purple gas. Gastly has large, white eyes and a large mouth with a small pair of fangs."
+conditions="There will be only 79619 Gastlys in existence."
+image="https://pokedex.live/img/Gastly.png"
+
+[[CURRENCIES]]
+code="Krabby"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Krabby"
+desc="Krabby (Japanese: クラブ Kurabu) is a Water-type Pokémon introduced in Generation I. Krabby is a River Crab Pokémon. It is red on top and mostly tan on the bottom. Its signature feature are the two long pincers it has."
+conditions="There will be only 1019619 Krabbys in existence."
+image="https://pokedex.live/img/Krabby.png"
+
+
+[[CURRENCIES]]
+code="Smoochum"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Smoochum"
+desc="Smoochum (Japanese: ムチュール Muchuuru) is an Ice/Psychic-type Baby Pokémon introduced in Generation II."
+conditions="There will be only 196191 Smoochums in existence."
+image="https://pokedex.live/img/Smoochum.png" 
+
+[[CURRENCIES]]
+code="Ivysaur"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Ivysaur"
+desc="Ivysaur (フシギソウ Fushigiso) is a Grass/Poison Pokémon introduced in Generation I. Ivysaur's appearance is very similar to that of its pre-evolved form, Bulbasaur."
+conditions="There will be only 3676 Ivysaurs in existence."
+image="https://pokedex.live/img/Ivysaur.png" 
+
+[[CURRENCIES]]
+code="Charizard"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Charizard"
+desc="Charizard (リザードン Rizaadon) is a Fire/Flying-type Pokémon introduced in Generation I. It can mega evolve into either Mega Charizard X using the Charizardite X or Mega Charizard Y using the Charizardite Y. It can Gigantamax into Gigantamax Charizard."
+conditions="There will be only 101 Charizards in existence."
+image="https://pokedex.live/img/Charizard.png" 
+
+[[CURRENCIES]]
+code="Blastoise"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Blastoise"
+desc="Blastoise (カメックス Kamekkusu) is a Water-type Pokémon introduced in Generation I. Blastoise is the evolved form of Wartortle, and the final evolution of Squirtle. It is also the version mascot for Pokémon Blue. It can Mega Evolve into Mega Blastoise and Gigantamax into Gigantamax Blastoise."
+conditions="There will be only 1293 Blastoises in existence."
+image="https://pokedex.live/img/Blastoise.png" 
+
+[[CURRENCIES]]
+code="Weepinbell"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Weepinbell"
+desc="Weepinbell (Japanese: ウツドン Utsudon) is a Grass/Poison-type Pokémon introduced in Generation I. Weepinbell is a plant Pokémon. It lacks legs, so it hovers in the air. The head of Weepinbell is yellow with three yellow-green spots on it. On the top of its head is a vine."
+conditions="There will be only 97912 Weepinbells in existence."
+image="https://pokedex.live/img/Weepinbell.png" 
+
+[[CURRENCIES]]
+code="Tentacool"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Tentacool"
+desc="Tentacool (Japanese: メノクラゲ Menokurage ) is a Water/Poison-type Pokémon introduced in Generation I. Tentacool is an aquatic Pokémon based on the box jellyfish. Tentacool have two long tentacles that extend from the base of its large, blue head. There are three red gems on this Pokémon's head: two on the sides of its head and one on its forehead."
+conditions="There will be only 61559 Tentacools in existence."
+image="https://pokedex.live/img/Tentacool.png" 
+
+[[CURRENCIES]]
+code="Haunter"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Haunter"
+desc="Haunter (Japanese: ゴースト Goosuto) is a Ghost/Poison-type Pokémon introduced in Generation I. Haunter is a purple, spiky, floating figure with triangular eyes, tiny pupils, fangs and disembodied, three-fingered, clawed hands."
+conditions="There will be only 7961 Haunters in existence."
+image="https://pokedex.live/img/Haunter.png" 
+
+[[CURRENCIES]]
+code="Horsea"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Horsea"
+desc="Horsea (Japanese: タッツー Tattsuu) is a Water-type Pokémon introduced in Generation I. Horsea is a Water-type Pokémon that resembles a seahorse. It is a small, light blue seahorse with tiny scales. Its belly and fin are cream colored. Its tail is always curled up tightly, and it has a single fin on its back that is used for locomotion in the water."
+conditions="There will be only 7961191 Horseas in existence."
+image="https://pokedex.live/img/Horsea.png" 
+
+[[CURRENCIES]]
+code="Staryu"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Staryu"
+desc="Staryu (ヒトデマン Hitodeman) is a Water-type Pokémon introduced in Generation I. Staryu is a Star Shape Pokémon. It is star shaped, as its name suggests. Its 'arms' are brown."
+conditions="There will be only 1490961 Staryus in existence."
+image="https://pokedex.live/img/Staryu.png" 
+
+[[CURRENCIES]]
+code="Snorlax"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Snorlax"
+desc="Snorlax (Japanese: カビゴン Kabigon) is a Normal-type Pokémon introduced in Generation I. Snorlax is a very large and fat, bear-like Pokémon that has grayish-blue fur and an apricot-color underbelly. Snorlax is known for its relaxed and somewhat-sluggish nature. It will sleep all day until it is hungry, when it will awake and forage for the 880 pounds (399 kilograms) of food it needs, afterwards falling back to sleep again."
+conditions="There will be only 38948 Snorlaxs in existence."
+image="https://pokedex.live/img/Snorlax.png" 
+
+[[CURRENCIES]]
+code="Zapdos"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Zapdos"
+desc="Zapdos (Japanese: サンダー Sandaa) is an Electric/Flying-type Legendary Pokémon introduced in Generation I. It is part of the Kanto Legendary Birds, along with Articuno and Moltres."
+conditions="There will be only 3 Zapdos in existence."
+image="https://pokedex.live/img/Zapdos.png" 
+
+[[CURRENCIES]]
+code="Dratini"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Dratini"
+desc="Dratini (Japanese: ミニリュウ Miniryuu) is a Dragon-type Pokémon introduced in Generation I. It has a white, circular, gem-like object on its forehead, and its eyes are light purple. It has two developing wings at the sides of its head, which grow to be enormous as it evolves. It has a white belly, and is light blue the rest of the way. Dratini looks like some sort of snake or sea monster. Dratini are born large, and as they shed their skin, they grow larger. They have a massive amount of energy rapidly increasing inside of their bodies, hence, they have great strength, which grows exponentially as they evolve."
+conditions="There will be only 919 Dratinis in existence."
+image="https://pokedex.live/img/Dratini.png"  
+
+[[CURRENCIES]]
+code="Persian"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Persian"
+desc="Persian (Japanese: ペルシアン Persian) is a Normal-type Pokémon introduced in Generation I, and a Dark-type introduced in Generation VII.  Its fur is beige in color, and it has a curly tail. There is also a small, red gem on its forehead, which is said to give the Pokémon power. The Persian is named after the Persian breed of cat, although it resembles a cougar, with a yellowish white fur color. It may possibly be an albino cougar."
+conditions="There will be only 362 Persians in existence."
+image="https://pokedex.live/img/Persian.png" 
+
+[[CURRENCIES]]
+code="Venusaur"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Venusaur"
+desc="Venusaur (フシギバナ Fushigibana) is a Grass/Poison-type Pokémon. Venusaur is a large, dinosaur-like Pokémon that is somewhat similar in appearance to its pre-evolved forms, Ivysaur and Bulbasaur. Venusaur absorbs sunlight to gain energy and to feed its flower, located on its back."
+conditions="There will be only 367 Venusaurs in existence."
+image="https://pokedex.live/img/Venusaur.png" 
+
+[[CURRENCIES]]
+code="Gengar"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Gengar"
+desc="Gengar is a shadow-like, round-bodied Pokémon with two large, pointed ears and short spikes lining its back. Gengar has two red eyes and a toothy, sinister smile. It has claws on its hands. Gengar stands on its two short legs, but it can Levitate as well. This Pokémon hides in the shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 °F."
+conditions="There will be only 796 Gengars in existence."
+image="https://pokedex.live/img/Gengar.png"
+
+[[CURRENCIES]]
+code="Totodile"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Totodile"
+desc="Totodile (ワニノコ Waninoko) is the Water-type Starter Pokémon of the Johto region. Totodile is a small Pokémon that appears as a bipedal crocodile. While most of a Totodile's body is blue, they have a yellow, V-shaped marking across their chest, red eyes and spikes that go down its back to its tail. These Pokémon are well known for their large mouths, filled with razor-sharp teeth."
+conditions="There will be only 63637 Totodiles in existence."
+image="https://pokedex.live/img/Totodile.png"
+
+[[CURRENCIES]]
+code="Jynx"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Jynx"
+desc="Jynx (ルージュラ Ruujura) is an Ice/Psychic-type Pokémon introduced in Generation I. Jynx originally had black skin, which was dropped due to the resemblance to 'blackface' and the response of a small group of activists to the resemblance."
+conditions="There will be only 19619 Jynxs in existence."
+image="https://pokedex.live/img/Jynx.png"
+
+[[CURRENCIES]]
+code="Dragonair"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Dragonair"
+desc="Dragonair (Japanese: ハクリュ Hakuryuu) is a Dragon-type Pokémon introduced in Generation I. Dragonair's appearance are like sea serpents with long, sleek bodies. The upper part of their body is light blue while its underside is white. They have a small, white horn on the forehead and two wing-shaped protuberances on the sides of the head which are often said to be ears, but are in fact wings, as evidenced in the short film preceding Pokémon: The Movie 2000. They have a blue orb placed at the neck and another two near the tip of the tail. Along with Dratini, its mouth is rarely seen. It is unknown if it even has a mouth."
+conditions="There will be only 91 Dragonairs in existence."
+image="https://pokedex.live/img/Dragonair.png"
+
+[[CURRENCIES]]
+code="Grimer"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Grimer"
+desc="Grimer (ベトベター Betobetaa) is a Poison-type Pokémon introduced in Generation I. It has a Poison/Dark-type Alolan Form in Generation VII. The Grimers that are from the Kanto region are colored purple, but the Grimers that are from the Alola region are colored with dark green on its body, yellow for the jawline and blue for the tongue, also it has two crystal that are sticking on the roof of its mouth acts like teeth."
+conditions="There will be only 86868 Grimers in existence."
+image="https://pokedex.live/img/Grimer.png"
+
+[[CURRENCIES]]
+code="Scyther"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Scyther"
+desc="Scyther (Japanese: ストライク Sutoraiku) is a Bug/Flying-type Pokémon introduced in Generation I. Scyther is a Mantis Pokémon. It is green with two wings that enable flight. It has two razor-sharp scythes for arms."
+conditions="There will be only 17617 Scythers in existence."
+image="https://pokedex.live/img/Scyther.png"
+
+[[CURRENCIES]]
+code="Dragonite"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Dragonite"
+desc="Dragonite (Japanese: カイリュー Kairyu) is a dual-type Dragon/Flying pseudo-legendary Pokémon introduced in Generation I."
+conditions="There will be only 9 Dragonites in existence."
+image="https://pokedex.live/img/Dragonite.png"
+
+[[CURRENCIES]]
+code="Mewtwo"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Mewtwo"
+desc="Mewtwo (ミュウツー Myuutsuu) is a Psychic-type Legendary Pokémon introduced in Generation I. It was created using Mew's DNA."
+conditions="There will be only 2 Mewtwos in existence."
+image="https://pokedex.live/img/Mewtwo.png"
+
+[[CURRENCIES]]
+code="Flareon"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Flareon"
+desc="Flareon (ブースター Buusutaa) is a Fire-type Pokémon introduced in Generation I. Flareon is a quadruped mammalian Pokémon. It has vivid flame-orange fur with a bushy yellow mane, a wide, fluffy flame-shaped long tail, and a tuft of yellow fur atop its head, in a fireball shape. "
+conditions="There will be only 1017 Flareons in existence."
+image="https://pokedex.live/img/Flareon.png"
+
+[[CURRENCIES]]
+code="Jolteon"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Jolteon"
+desc="Jolteon (Japanese: サンダース Sandaasu) is an Electric-type Pokémon introduced in Generation I. Jolteon is a quadruped mammalian Pokémon with some traits of a herding dog as seen in Get Along, Little Pokémon, when Ethan used Jolteon as a 'sheep dog' to herd the Magnemite. Jolteon's body is covered in spiny bright yellow fur. It has long ears resembling a rabbit, deep purple almond-shaped eyes, and a blunt cat-like muzzle with a small black triangular nose. It has a spiky white mane encircling its neck. Its legs and paws are slender, with three toes on each and no visible claws. Jolteon has a spiny fringe of fur covering its backside, and it has a small short spike-like tail that is not often visible (but seen in games such as Pokémon Stadium). Its back legs seems to be powerfully-built, allowing it to run at high speeds like a cheetah."
+conditions="There will be only 1017 Jolteons in existence."
+image="https://pokedex.live/img/Jolteon.png"
+
+
+
+
+
+
+
+
+# optional extra information for humans
+# Useful place for anchors to detail various policies and required info
+
+###################################
+# Required compliance fields:
+#      name=<recipient name>
+#      addr=<recipient address>
+# Federation Format:
+#        <phone number>*anchor.com
+#        Forwarding supported by sending to: forward*anchor.com
+#           forward_type=bank_account
+#           swift=<swift code of receiving bank>
+#           acct=<recipient account number at receiving bank>
+# Minimum Amount Forward: $2 USD
+# Maximum Amount Forward: $10000 USD
