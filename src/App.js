@@ -6,6 +6,7 @@ import React, { useState } from "react";
 import Container from "@material-ui/core/Container";
 import { SearchBox } from "./Components/Search/Search";
 import CenteredGrid from "./Components/CardList/CardList";
+import Copyright from "./Components/Copyight/Copyright";
 
 import PokemonContext from "./Context/PokemonsContext";
 
@@ -26,6 +27,7 @@ function App() {
       >
         <SearchBox />
         <CenteredGrid />
+        <Copyright />
       </PokemonContext.Provider>
     </Container>
   );

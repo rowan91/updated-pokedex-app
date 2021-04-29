@@ -659,6 +659,16 @@ const Pokemons = [
     code: "Eevee",
     issuer: "GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6",
   },
+
+  {
+    name: "Mankey",
+    id: 74,
+    quantity: 8908,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
 ];
 
 shuffle(Pokemons);
