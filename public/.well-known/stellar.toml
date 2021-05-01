@@ -675,6 +675,36 @@ conditions="There will be only 8908 Mankeys in existence."
 image="https://pokedex.live/img/Mankey.png"
 
 
+[[CURRENCIES]]
+code="Chikorita"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Chikorita"
+desc="Chikorita (チコリータ Chikoriita) is the Grass-type Starter Pokémon of the Johto region. Chikorita is a small dinosaur-like Pokémon, particularly resembling a Sauropoda. It is a light green color and its eyes are dull red. Chikorita are docile and friendly, spending a lot of time in the sun to soak up the sun's rays."
+conditions="There will be only 9167 Chikoritas in existence."
+image="https://pokedex.live/img/Chikorita.png"
+
+
+[[CURRENCIES]]
+code="Kakuna"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Kakuna"
+desc="Kakuna (Japanese: コクーン Kokuun) is a Bug/Poison-type Pokémon introduced in Generation I. Kakuna is an insect-like Pokémon with an appearance similar to that of a yellow chrysalis. As a chrysalis, the interior of Kakuna's very hard shell is unseen, with no limbs or other features being shown."
+conditions="There will be only 16176 Kakunas in existence."
+image="https://pokedex.live/img/Kakuna.png"
+
+
+[[CURRENCIES]]
+code="Seel"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Seel"
+desc="Seel (Japanese: パウワウ Pauwau) is a Water-type Pokémon introduced in Generation I. Seel is a chubby pinniped Pokémon with a thick, fatty hide covered in bluish white fur. It has a pale tan maw with a large red tongue and a pair of tusks on its lower jaw. It has circular eyes and a black nose that is capable of closing when it swims. There is a small horn on its forehead, which it uses in combination with its tusks to bore through ice floes."
+conditions="There will be only 22722 Seels in existence."
+image="https://pokedex.live/img/Seel.png"
+
+
 
 
 

@@ -669,6 +669,36 @@ const Pokemons = [
     code: "XLM",
     issuer: "native",
   },
+
+  {
+    name: "Chikorita",
+    id: 75,
+    quantity: 9167,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "SLT",
+    issuer: "GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+  },
+
+  {
+    name: "Kakuna",
+    id: 76,
+    quantity: 16176,
+    price: 1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "Weedle",
+    issuer: "GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6",
+  },
+
+  {
+    name: "Seel",
+    id: 77,
+    quantity: 22722,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
 ];
 
 shuffle(Pokemons);
