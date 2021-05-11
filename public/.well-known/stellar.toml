@@ -704,6 +704,17 @@ desc="Seel (Japanese: パウワウ Pauwau) is a Water-type Pokémon introduced i
 conditions="There will be only 22722 Seels in existence."
 image="https://pokedex.live/img/Seel.png"
 
+[[CURRENCIES]]
+code="Golbat"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Golbat"
+desc="Golbat (Japanese: ゴルバット Gorubatto) is a Poison/Flying-type Pokémon introduced in Generation I. Golbat is a large, blue bat with super long wings. Unlike its pre-evolved form, named Zubat, Golbat has eyes. It also has two long, skinny feet. "
+conditions="There will be only 102992 Golbats in existence."
+image="https://pokedex.live/img/Golbat.png"
+
+
+
 
 
 

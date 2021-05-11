@@ -699,6 +699,15 @@ const Pokemons = [
     code: "XLM",
     issuer: "native",
   },
+  {
+    name: "Golbat",
+    id: 78,
+    quantity: 102992,
+    price: 1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "Zubat",
+    issuer: "GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6",
+  },
 ];
 
 shuffle(Pokemons);
