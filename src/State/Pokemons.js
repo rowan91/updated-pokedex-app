@@ -708,6 +708,42 @@ const Pokemons = [
     code: "Zubat",
     issuer: "GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6",
   },
+  {
+    name: "Beedrill",
+    id: 79,
+    quantity: 1617,
+    price: 1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "Kakuna",
+    issuer: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+  },
+  {
+    name: "Spearow",
+    id: 80,
+    quantity: 17919,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
+  {
+    name: "Gloom",
+    id: 81,
+    quantity: 3958,
+    price: 1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "Oddish",
+    issuer: "GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6",
+  },
+  {
+    name: "Growlithe",
+    id: 82,
+    quantity: 89767,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
 ];
 
 shuffle(Pokemons);
