@@ -744,6 +744,15 @@ const Pokemons = [
     code: "XLM",
     issuer: "native",
   },
+  {
+    name: "Voltorb",
+    id: 83,
+    quantity: 37637,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
 ];
 
 shuffle(Pokemons);

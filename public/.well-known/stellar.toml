@@ -752,6 +752,15 @@ desc="Growlithe (Japanese: ガーディ Gaadi) is a Fire-type Pokémon introduce
 conditions="There will be only 89767 Growlithes in existence."
 image="https://pokedex.live/img/Growlithe.png"
 
+[[CURRENCIES]]
+code="Voltorb"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Voltorb"
+desc="Voltorb (ビリリダマ Biriridama) is an Electric-type Pokémon introduced in Generation I. Voltorb can have the special ability Soundproof or the special ability Static. Soundproof makes Voltorb immune to 'sound moves' while Static causes the opponent to have a 30% chance to be paralyzed if Voltorb is hit by a physical attack."
+conditions="There will be only 37637 Voltorbs in existence."
+image="https://pokedex.live/img/Voltorb.png"
+
 
 
 
