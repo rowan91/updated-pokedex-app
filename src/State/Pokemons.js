@@ -762,6 +762,15 @@ const Pokemons = [
     code: "XLM",
     issuer: "native",
   },
+  {
+    name: "Tentacruel",
+    id: 85,
+    quantity: 6155,
+    price: 1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "Tentacool",
+    issuer: "GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6",
+  },
 ];
 
 shuffle(Pokemons);

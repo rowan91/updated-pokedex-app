@@ -772,6 +772,16 @@ conditions="There will be only 79717 Tyrogues in existence."
 image="https://pokedex.live/img/Tyrogue.png"
 
 
+[[CURRENCIES]]
+code="Tentacruel"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Tentacruel"
+desc="Tentacruel (Japanese: ドククラゲ Dokukurage) is a Water/Poison-type Pokémon introduced in Generation I. Tentacruel has only a few differences from its pre-evolved form. It now has 14 long tentacles. It also has a beak; the mouthparts are on the front and back of Tentacruel's head, resembling blue pincers."
+conditions="There will be only 6155 Tentacruels in existence."
+image="https://pokedex.live/img/Tentacruel.png"
+
+
 
 
 
