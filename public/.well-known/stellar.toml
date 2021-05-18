@@ -782,6 +782,16 @@ conditions="There will be only 6155 Tentacruels in existence."
 image="https://pokedex.live/img/Tentacruel.png"
 
 
+[[CURRENCIES]]
+code="Kabuto"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Kabuto"
+desc="Kabuto (Japanese: カブト Kabuto) is a Rock/Water-type Fossil Pokémon introduced in Generation I that can be resurrected from a Dome Fossil. It is Omanyte's counterpart. Kabuto is a flat Pokémon with a brown shell. It has two circular dents on its shell and its small, black eyes are visible from the top. Its underside is black with two red spots, which are its secondary eyes. It has four yellow, pointed legs."
+conditions="There will be only 99999 Kabutos in existence."
+image="https://pokedex.live/img/Kabuto.png"
+
+
 
 
 
