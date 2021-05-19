@@ -792,6 +792,43 @@ conditions="There will be only 99999 Kabutos in existence."
 image="https://pokedex.live/img/Kabuto.png"
 
 
+[[CURRENCIES]]
+code="Porygon"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Porygon"
+desc="Porygon (ポリゴン Porygon) is a Normal-type Pokémon introduced in Generation I. Porygon is a virtual Pokémon. It is based on early 3D animation models, and is thus created completely out of polygons. It looks a little like a duck or some kind of bird."
+conditions="There will be only 33919 Porygons in existence."
+image="https://pokedex.live/img/Porygon.png"
+
+[[CURRENCIES]]
+code="Magikarp"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Magikarp"
+desc="Magikarp (Japanese: コイキング Koiking) is a Water-type Pokémon introduced in Generation I. Magikarp is a Fish Pokémon. Its body is made up of/covered in red scales. Its fins are either yellow or white. They also have 'whiskers' or Maxilliary Barbells. Female Magikarp have white barbells while male Magikarp have yellow barbells."
+conditions="There will be only 191919 Magikarps in existence."
+image="https://pokedex.live/img/Magikarp.png"
+
+[[CURRENCIES]]
+code="Rhyhorn"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Kabuto"
+desc="Rhyhorn (Japanese: サイホーン Saihoon) is a Ground/Rock-type Pokémon introduced in Generation I. Rhyhorn is a gray rhinoceros-like Pokémon that is rock hard. It has spikes on top of it to protect itself from its foes. It walks on four legs and has a horn that can be used as a drill. And it has two toes on each foot and two sharp teeth sticking out of its mouth."
+conditions="There will be only 87864 Rhyhorns in existence."
+image="https://pokedex.live/img/Rhyhorn.png"
+
+[[CURRENCIES]]
+code="Geodude"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Kabuto"
+desc="Geodude (Japanese: イシツブテ Ishitsubute) is a Rock/Ground-type Pokémon introduced in Generation I, and a Rock/Electric-type Pokémon introduced in Generation VII. Geodude has a rock for a head, no nose, and two long arms that start with a bulging muscle and end with rock hands resembling a human's."
+conditions="There will be only 234647 Geodudes in existence."
+image="https://pokedex.live/img/Geodude.png"
+
+
 
 
 

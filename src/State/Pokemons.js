@@ -780,6 +780,42 @@ const Pokemons = [
     code: "XLM",
     issuer: "native",
   },
+  {
+    name: "Porygon",
+    id: 87,
+    quantity: 33919,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
+  {
+    name: "Magikarp",
+    id: 88,
+    quantity: 191919,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "MOBI",
+    issuer: "GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH",
+  },
+  {
+    name: "Rhyhorn",
+    id: 89,
+    quantity: 87864,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
+  {
+    name: "Geodude",
+    id: 90,
+    quantity: 234647,
+    price: 0.1,
+    asset: "GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB",
+    code: "XLM",
+    issuer: "native",
+  },
 ];
 
 shuffle(Pokemons);
